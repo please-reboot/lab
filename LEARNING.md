@@ -13,7 +13,8 @@ _Status: 💡 Idea · 🔧 In Progress · 🚧 Blocked · ✅ Done_
 ### AI / RAG / Agents
 | Project | Status |
 |---|---|
-| Local AI / agent tooling survey (LM Studio, Jan, Hermes) | 🔧 In Progress |
+| Local AI / agent tooling survey (LM Studio, Jan) | 🔧 In Progress |
+| Autonomous AI agent project (Hermes, CustomGPT, Claude) | 🔧 In Progress |
 | Self-hosted RAG exploration | 💡 Idea |
 | "About Me" demo chatbot (RAG POC, Vercel + GitHub) | 💡 Idea |
 
