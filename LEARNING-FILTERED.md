@@ -5,11 +5,11 @@ _Status: 💡 Idea · 🔧 In Progress · 🚧 Blocked · ✅ Done_
 ### Microsoft 365 / Security
 | Project | Status |
 |---|---|
-| Tenant hardening baseline | 💡 Idea |
-| Maester automated scans | 💡 Idea |
-| Document M365 use cases (incl. free/cheap alternatives) | 💡 Idea |
-| Personal tenant licensing strategy (month-to-month, Entra testing) | 💡 Idea |
+| Tenant hardening baseline | 🔧 In Progress |
+| Document M365 App use cases (incl. free/cheap alternatives) | 💡 Idea |
+| Personal tenant licensing strategy for POS builds (month-to-month, Entra testing) | 🔧 In Progress  |
 | Test Microsoft EnterpriseMCP (rebuild custom Entra MCP if needed) | 💡 Idea |
+| Maester automated scans | 💡 Idea |
 
 ### AI / RAG / Agents
 | Project | Status |
