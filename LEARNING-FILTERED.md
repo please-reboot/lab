@@ -10,7 +10,7 @@ _Status: 💡 Idea · 📅 Planned · 🔧 In Progress · 🚧 Blocked · ✅ Do
 |---|---|---|
 | October 5 | Completed Entra tenant hardening and finalized long-term tenant licensing. Set up Azure Key Vault, an Entra ID app, and credentials for Terraform automation. | ✅ Done |
 | October 12 | Focused on MD-102 exam preparation. | Study activity recorded; exam outcome not recorded |
-| October 18 | CyberArk training. Follow up on the remaining requirements and how to finish the course. | 🔧 In Progress |
+| October 18 | CyberArk Defender – PAM training. Follow up on the remaining requirements and how to finish the course. | 🔧 In Progress |
 | October 26 | Focused on SC-300 exam preparation. | Study activity recorded; exam outcome not recorded |
 | November 2 | DP-600 labs and DP-900 exam preparation. | Study and lab activity recorded |
 | November 5 | Studied for and passed Delinea Platform Guard: Control on the same day. | ✅ Done |
@@ -43,7 +43,7 @@ _Status: 💡 Idea · 📅 Planned · 🔧 In Progress · 🚧 Blocked · ✅ Do
 |---|---|
 | MD-102 | Preparation recorded for the week of October 12; exam outcome not recorded |
 | SC-300 | Preparation recorded for the week of October 26; exam outcome not recorded |
-| CyberArk training | 🔧 In Progress — started during the week of October 18; identify remaining requirements and finish the course |
+| CyberArk Defender – PAM training | 🔧 In Progress — started during the week of October 18; identify remaining requirements and finish the course |
 | Delinea Platform Guard: Control | ✅ Done — studied and passed on November 5, 2026 |
 | DP-600 | Labs recorded for the week of November 2 |
 | DP-900 | 🔧 In Progress — preparation during the weeks of November 2 and November 9 |
