@@ -11,7 +11,7 @@ _Status: 💡 Idea · 📅 Planned · 🔧 In Progress · 🚧 Blocked · ✅ Do
 | October 5 | Completed Entra tenant hardening and finalized long-term tenant licensing. Set up Azure Key Vault, an Entra ID app, and credentials for Terraform automation. | ✅ Done |
 | October 12 | Focused on MD-102 exam preparation. | Study activity recorded; exam outcome not recorded |
 | October 18 | CyberArk Defender – PAM training. Follow up on the remaining requirements and how to finish the course. | 🔧 In Progress |
-| October 26 | Focused on SC-300 exam preparation. | Study activity recorded; exam outcome not recorded |
+| October 26 | Focused on SC-300 exam preparation and watched AI-103: Develop AI apps and agents on Azure course material. | Study activity recorded; exam outcome not recorded |
 | November 2 | DP-600 labs and DP-900 exam preparation. | Study and lab activity recorded |
 | November 5 | Studied for and passed Delinea Platform Guard: Control on the same day. | ✅ Done |
 | November 9 | AWS account setup and Terraform labs. | 🔧 In Progress |
@@ -57,7 +57,7 @@ _Status: 💡 Idea · 📅 Planned · 🔧 In Progress · 🚧 Blocked · ✅ Do
 | Self-hosted RAG exploration | 🔧 In Progress |
 | "About Me" demo chatbot (RAG POC, Vercel + GitHub) | 💡 Idea |
 | Local AI / agent tooling survey (LM Studio, Jan, Hermes) | 🔧 In Progress |
-| AI-103: Develop AI apps and agents on Azure | 🔧 In Progress — course viewing; week not yet recorded |
+| AI-103: Develop AI apps and agents on Azure | 🔧 In Progress — course viewing during the week of October 26 |
 
 ## Career Search
 
