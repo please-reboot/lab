@@ -18,6 +18,7 @@ _Status: 💡 Idea · 📅 Planned · 🔧 In Progress · 🚧 Blocked · ✅ Do
 | November 9 — remainder of the week | DP-900 preparation, continued Terraform labs, and deeper résumé content curation. | 🔧 In Progress |
 | November 16 | Continue SC-500 preparation; exam planned for November 17 to take advantage of the Pearson free replay offer. | 📅 Planned |
 | November 23 | Continue CISSP study, with the exam planned for this week. | 📅 Planned |
+| Late November, after the CISSP exam | Return to AI-103: Develop AI apps and agents on Azure as a study focus. | 📅 Planned |
 
 ## Microsoft 365 / Security
 
@@ -57,7 +58,7 @@ _Status: 💡 Idea · 📅 Planned · 🔧 In Progress · 🚧 Blocked · ✅ Do
 | Self-hosted RAG exploration | 🔧 In Progress |
 | "About Me" demo chatbot (RAG POC, Vercel + GitHub) | 💡 Idea |
 | Local AI / agent tooling survey (LM Studio, Jan, Hermes) | 🔧 In Progress |
-| AI-103: Develop AI apps and agents on Azure | 🔧 In Progress — course viewing during the week of October 26 |
+| AI-103: Develop AI apps and agents on Azure | 🔧 In Progress — course viewing during the week of October 26; planned study focus in late November after the CISSP exam |
 
 ## Career Search
 
