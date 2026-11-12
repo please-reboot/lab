@@ -57,6 +57,7 @@ _Status: 💡 Idea · 📅 Planned · 🔧 In Progress · 🚧 Blocked · ✅ Do
 | Self-hosted RAG exploration | 🔧 In Progress |
 | "About Me" demo chatbot (RAG POC, Vercel + GitHub) | 💡 Idea |
 | Local AI / agent tooling survey (LM Studio, Jan, Hermes) | 🔧 In Progress |
+| AI-103: Develop AI apps and agents on Azure | 🔧 In Progress — course viewing; week not yet recorded |
 
 ## Career Search
 
